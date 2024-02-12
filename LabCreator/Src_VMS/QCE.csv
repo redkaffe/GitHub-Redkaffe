@@ -1,0 +1,6 @@
+VMName,VMGen,VMPath,DiskType,DiffParent,DiskSize,ProcessorCount,StartupRAM,DynamicMemory,MinRam,MaxRAM,MemPriority,MemBuffer,SwitchName,Unattend,LPASSWORD,IP,GW,DNS,DJDOMAIN,DJPASSWORD,DJUSERNAME
+MADWSO202,2,E:\Hyper-V\LABs\CE,Differencing,D:\SyspreppedVHDX\MADREF_W10_1709_FR.vhdx,80,2,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10DJ,P@ssw0rd,,,,QCE.QSDXCORP.NET,Sodexo2019!,qce.Fr.hq.ilm-mdt_
+MADWSO203,2,E:\Hyper-V\LABs\CE,Differencing,D:\SyspreppedVHDX\MADREF_W10_1709_FR.vhdx,80,2,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10DJ,P@ssw0rd,,,,QCE.QSDXCORP.NET,Sodexo2019!,qce.Fr.hq.ilm-mdt_
+MADWSO204,2,E:\Hyper-V\LABs\CE,Differencing,D:\SyspreppedVHDX\MADREF_W10_1709_FR.vhdx,80,2,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10DJ,P@ssw0rd,,,,QCE.QSDXCORP.NET,Sodexo2019!,qce.Fr.hq.ilm-mdt_
+MADWSO205,2,E:\Hyper-V\LABs\CE,Differencing,D:\SyspreppedVHDX\MADREF_W10_1709_FR.vhdx,80,2,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10DJ,P@ssw0rd,,,,QCE.QSDXCORP.NET,Sodexo2019!,qce.Fr.hq.ilm-mdt_
+

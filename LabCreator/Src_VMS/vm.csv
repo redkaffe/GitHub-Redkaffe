@@ -1,0 +1,8 @@
+VMName,VMGen,VMPath,DiskType,DiffParent,DiskSize,ProcessorCount,StartupRAM,DynamicMemory,MinRam,MaxRAM,MemPriority,MemBuffer,SwitchName,Unattend,LPASSWORD,IP,GW,DNS,DJDOMAIN,DJPASSWORD,DJUSERNAME
+MADWSO017,2,E:\Hyper-V\LABs,Differencing,D:\SyspreppedVHDX\MADREF_W10_1809_FR.vhdx,80,4,4096,Yes,2048,4096,50,20,vEth2-USB,D:\LABsCreator\W10WRKGRP,P@ssw0rd,,,,WORKGROUP,,
+MADWSO018,2,E:\Hyper-V\LABs,Differencing,D:\SyspreppedVHDX\MADREF_W10_1809_FR.vhdx,80,4,4096,Yes,2048,4096,50,20,vEth2-USB,D:\LABsCreator\W10WRKGRP,P@ssw0rd,,,,WORKGROUP,,
+MADWSO019,2,E:\Hyper-V\LABs,Differencing,D:\SyspreppedVHDX\MADREF_W10_1709_FR.vhdx,80,4,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10DJ-QCE,P@ssw0rd,,,,WORKGROUP,,
+MADWSO020,2,E:\Hyper-V\LABs,Differencing,D:\SyspreppedVHDX\MADREF_W10_1709_FR.vhdx,80,4,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10DJ-QCE,P@ssw0rd,,,,WORKGROUP,,
+																																		
+
+

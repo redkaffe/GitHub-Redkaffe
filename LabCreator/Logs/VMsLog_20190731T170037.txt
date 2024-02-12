@@ -1,0 +1,8 @@
+  Progress: E:\Hyper-V\LABs\QCE\MADWSO115\Virtual Hard Disks\MADWSO115-Disk0.vhdx was created.
+Success: MADWSO115 was created.
+  Progress: E:\Hyper-V\LABs\CE\MADWSO116\Virtual Hard Disks\MADWSO116-Disk0.vhdx was created.
+Success: MADWSO116 was created.
+  Progress: E:\Hyper-V\LABs\CE\MADWSO117\Virtual Hard Disks\MADWSO117-Disk0.vhdx was created.
+Success: MADWSO117 was created.
+  Progress: E:\Hyper-V\LABs\CE\MADWSO118\Virtual Hard Disks\MADWSO118-Disk0.vhdx was created.
+Success: MADWSO118 was created.

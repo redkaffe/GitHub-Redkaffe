@@ -1,0 +1,9 @@
+VMName,VMGen,VMPath,DiskType,DiffParent,DiskSize,ProcessorCount,StartupRAM,DynamicMemory,MinRam,MaxRAM,MemPriority,MemBuffer,SwitchName,Unattend,LPASSWORD,IP,GW,DNS,DJDOMAIN,DJPASSWORD,DJUSERNAME,VMEnableTPM
+MADWSO121,2,E:\Hyper-V\LABs\CE,Differencing,D:\SyspreppedVHDX\MADREF_W10_1607_FREnt.vhdx,80,4,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10,P@ssw0rd,,,,CE.SDXCORP.NET,adm#XP*40!,ce.Fr.hq.ilm-mdt_,Y
+MADWSO122,2,E:\Hyper-V\LABs\CE,Differencing,D:\SyspreppedVHDX\MADREF_W10_1703_FREnt.vhdx,80,4,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10,P@ssw0rd,,,,CE.SDXCORP.NET,adm#XP*40!,ce.Fr.hq.ilm-mdt_,Y
+MADWSO123,2,E:\Hyper-V\LABs\CE,Differencing,D:\SyspreppedVHDX\MADREF_W10_1709_FREnt.vhdx,80,4,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10,P@ssw0rd,,,,CE.SDXCORP.NET,adm#XP*40!,ce.Fr.hq.ilm-mdt_,Y
+MADWSO124,2,E:\Hyper-V\LABs\CE,Differencing,D:\SyspreppedVHDX\MADREF_W10_1709_FRPro.vhdx,80,4,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10,P@ssw0rd,,,,CE.SDXCORP.NET,adm#XP*40!,ce.Fr.hq.ilm-mdt_,Y
+MADWSO125,2,E:\Hyper-V\LABs\CE,Differencing,D:\SyspreppedVHDX\MADREF_W10_1803_FREnt.vhdx,80,4,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10,P@ssw0rd,,,,CE.SDXCORP.NET,adm#XP*40!,ce.Fr.hq.ilm-mdt_,Y
+MADWSO126,2,E:\Hyper-V\LABs\CE,Differencing,D:\SyspreppedVHDX\MADREF_W10_1809_FREnt.vhdx,80,4,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10,P@ssw0rd,,,,CE.SDXCORP.NET,adm#XP*40!,ce.Fr.hq.ilm-mdt_,Y
+MADWSO127,2,E:\Hyper-V\LABs\CE,Differencing,D:\SyspreppedVHDX\MADREF_W10_1809_FRPro4Wks.vhdx,80,4,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10,P@ssw0rd,,,,CE.SDXCORP.NET,adm#XP*40!,ce.Fr.hq.ilm-mdt_,Y
+MADWSO128,2,E:\Hyper-V\LABs\CE,Differencing,D:\SyspreppedVHDX\MADREF_W10_1903_FREnt.vhdx,80,4,4096,Yes,2048,4096,50,20,vEth1,D:\LABsCreator\W10,P@ssw0rd,,,,CE.SDXCORP.NET,adm#XP*40!,ce.Fr.hq.ilm-mdt_,Y
