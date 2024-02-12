@@ -1,0 +1,12 @@
+this script is meant to run on hyperv
+Will need some tweaking, but used daily on my test rig to generate VMs quiclky
+
+basic idea is simple: use differencial disks (One master Parent disk is used for many vms) + unattended files to automate creation of newly spawned vms.
+                                              need to have one Sysprepped VHDX per OS
+                                              need to have one Unattended file per os as well
+                                              then fill the csv and spawn vms
+on th etest rig it allows generating 30 VMs in OOOBE, in less than 6 minutes, all are named correctly (same as vm container), and setup as in the unattended
+
+
+                                              hope it helps you if you need that sort of things.
+                                              Pierre JOUBERT
